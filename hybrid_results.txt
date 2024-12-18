@@ -1,0 +1,1 @@
+Tiempo total con MPI + OpenMP: 0.500513 segundos

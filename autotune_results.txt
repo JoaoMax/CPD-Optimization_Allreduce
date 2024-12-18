@@ -1,0 +1,7 @@
+Iniciando Auto-Tuning del Tamaño del Bloque...
+Block size: 512, Time: 0.000303 seconds
+Block size: 1024, Time: 0.000124 seconds
+Block size: 2048, Time: 0.000273 seconds
+Block size: 4096, Time: 0.000208 seconds
+Block size: 8192, Time: 0.000204 seconds
+Best block size: 1024, Best time: 0.000124 seconds

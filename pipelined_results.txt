@@ -1,0 +1,1 @@
+Tiempo total con Pipelining: 0.001048 segundos

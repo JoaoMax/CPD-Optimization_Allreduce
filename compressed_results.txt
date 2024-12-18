@@ -1,0 +1,1 @@
+Tiempo total con compresión: 0.000042 segundos
